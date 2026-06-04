@@ -1,5 +1,7 @@
 <h1>BMI Calculator</h1>
 
+<h2>Live Demo: https://arzoomansuri18.github.io/BMI-Calculator/</h2>
+
 <p>This project is a simple and interactive <b>BMI Calculator</b> built using <b>HTML, CSS and JavaScript.</b> Users can enter their height and weight, and the calculator instantly displays their BMI along with category results (Underweight, Normal, Overweight, Obese).</p>
 
 <h2>Features</h2>
